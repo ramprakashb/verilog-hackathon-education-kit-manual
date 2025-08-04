@@ -167,8 +167,16 @@ When the select is 0, output y is assigned with the input d0, and when the selec
 </code></pre>
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
+
+always_comb is one of the construct in SystemVerilog which generates a combinational block. It is similar to 
+assign statement but instead of a single statement but it will be continuously looping within the block.
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
 ---
 
+
+
+---
 
 
 
